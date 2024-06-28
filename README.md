@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bahaa-Elnakib
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently Learning Web Development techniques 
+- 👀 I’m interested in Projct Management
+- 🌱 I’m currently Learning How to become Project Manager 
 - 📫 How to reach me -> bahaaelnakibb@gmail.com <-
 
 <!---
